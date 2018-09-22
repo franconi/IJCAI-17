@@ -1,0 +1,3 @@
+IJCAI 2017 submissions:
+
+Submitted technical papers must be no longer than seven pages in total: six pages for the main text of the paper (including all figures but excluding references), and one additional page for references. Note that the references page can only include references.
